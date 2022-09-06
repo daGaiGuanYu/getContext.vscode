@@ -1,0 +1,21 @@
+{
+  "name": "@ppzp/context",
+  "version": "0.0.0",
+  "description": "a js lib for accessing `vscode.ExtensionContext` in vscode plugin development",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppz-pro/context.vscode.git"
+  },
+  "keywords": [
+    "vscode",
+    "context",
+    "ExtensionContext"
+  ],
+  "author": "gy",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/ppz-pro/context.vscode/issues"
+  },
+  "homepage": "https://github.com/ppz-pro/context.vscode#readme"
+}
